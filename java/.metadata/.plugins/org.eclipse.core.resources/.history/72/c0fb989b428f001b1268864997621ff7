@@ -1,0 +1,15 @@
+package Wanna_try_some_pretty_stuff;
+import java.util.Scanner;
+public class ex1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+
+		int up=0, down=10;
+		while(++up<10 || --down>0)
+		 System.out.println (up+" ,"+down);
+		
+	}
+
+}
