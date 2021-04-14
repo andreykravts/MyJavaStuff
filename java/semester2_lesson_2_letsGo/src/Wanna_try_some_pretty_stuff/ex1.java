@@ -13,7 +13,7 @@ public class ex1 {
 			sum += i;
 			++ i;
 			}
-			 System.out.println ("sum = "+ sum);
+			System.out.println ("sum = "+ sum);
 
 		
 	}
